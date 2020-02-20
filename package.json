@@ -1,0 +1,19 @@
+{
+  "name": "paytm",
+  "version": "1.0.0",
+  "description": "Paytm karo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABFH",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "querystring": "^0.2.0",
+    "util": "^0.12.1"
+  }
+}
